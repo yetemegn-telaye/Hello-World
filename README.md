@@ -2,18 +2,18 @@
 
 # Hello World
 
-> First technical microverse project.
+> First Solo Microverse project.
 
 
 ## Built With
 
-- Major languages: Html and CSS
+- Major languages: Html, CSS
 - Frameworks
 - Technologies used
 
 ## Live Demo (if available)
 
-[Live Demo Link]()
+[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
